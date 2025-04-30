@@ -52,7 +52,7 @@ On the target Windows 10 VM, the two users were added as Remote Desktop Users.
 
 ![image](https://github.com/user-attachments/assets/f13282f3-15a9-4216-b26c-0e912f3e0a71)
 
-Ran the following Hydra brute force attack in Kali to execute the attack on the Windows 10 VM. The user's password was obtained successfully.
+Ran the following Hydra brute force command in Kali to execute the attack on the Windows 10 VM. The user's password was obtained successfully.
 
 ![image](https://github.com/user-attachments/assets/0fe08df7-e000-4f96-82f5-8abc6bdd8a6a)
 
