@@ -82,9 +82,8 @@ The following commands were executed to install Atomic Red Team:
 
 ![image](https://github.com/user-attachments/assets/35169cfc-7087-46e9-99d5-281dab87e0ef)
 
-Ran the following Atomic Test command with the technique ID T1136.001 to generate telemtry based on creating a local account:
+Ran the following Atomic Test command with the technique ID T1136.001 to generate telemtry based on creating a local account named "NewLocalUser":
 
-![image](https://github.com/user-attachments/assets/c587ca96-3093-47c3-90a3-b4b43b26ffa3)
-
+![image](https://github.com/user-attachments/assets/bd32833b-aaa6-492b-afbf-91006f7539b9)
 
 
