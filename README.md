@@ -86,4 +86,7 @@ Ran the following Atomic Test command with the technique ID T1136.001 to generat
 
 ![image](https://github.com/user-attachments/assets/bd32833b-aaa6-492b-afbf-91006f7539b9)
 
+Splunk detected the generated telemetry:
+
+![image](https://github.com/user-attachments/assets/7e89a5a0-fdd4-4356-ab5d-d08fdf78840e)
 
