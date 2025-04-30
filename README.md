@@ -21,3 +21,10 @@ Simulate real-world adversary techniques from the MITRE ATT&CK framework using A
 - MITRE ATT&CK: Adversarial tactics and technique framework.
 
 ## Steps
+
+This lab is a continuation of the [Active Directory project](https://github.com/andcoa/ActiveDirectory/blob/main/README.md)
+
+Updated the Kali VM's IPv4 settings to match the network diagram in the AD lab.
+
+![image](https://github.com/user-attachments/assets/da707a22-d1c8-4184-a177-c137c6c7d050)
+
