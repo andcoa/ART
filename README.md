@@ -78,7 +78,7 @@ To prepare for the installation of Atomic Red Team on the Windows 10 VM, the C:\
 
 The following commands were executed to install Atomic Red Team:
 
-![image](https://github.com/user-attachments/assets/c54a9429-2676-4279-8601-49c30c68cc6c)
+![image](https://github.com/user-attachments/assets/3658001e-fd00-4dd3-9a85-8aaed5d20d9d)
 
 ![image](https://github.com/user-attachments/assets/35169cfc-7087-46e9-99d5-281dab87e0ef)
 
