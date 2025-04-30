@@ -56,8 +56,6 @@ Ran the following Hydra brute force command in Kali to execute the attack on the
 
 ![image](https://github.com/user-attachments/assets/0fe08df7-e000-4f96-82f5-8abc6bdd8a6a)
 
-### Splunk Analysis
-
 The event code 4625 appears 21 times in Splunk, which means there were 21 failed attempts to login to the "tsmith" account. This coincides with the number of attempts the Hydra attack made to crack the password of the user "jsmith".
 
 ![image](https://github.com/user-attachments/assets/8d5f887b-e19e-484d-afe3-1064260db911)
@@ -72,5 +70,11 @@ There are seven events for code 4624 which stands for the account getting succes
 
 While looking through the seven logs listed by the command above, one of them shows the details of the attacker Kali VM:
 
-![image](https://github.com/user-attachments/assets/c01cf9e9-d444-4ce1-a77f-ef7cdb0c1814)
+![image](https://github.com/user-attachments/assets/e729d3f8-cb8c-428f-a89d-08e9a13179fc)
+
+In order to install Atomic Red Team on the Windows 10 VM, the C:\ drive was added as an exclusion in Windows Security as Microsoft Defender would otherwise delete some of the files after the installation.
+
+![image](https://github.com/user-attachments/assets/1b4a95a4-9d28-40e0-988f-22a7556e4252)
+
+
 
