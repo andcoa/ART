@@ -61,3 +61,16 @@ Ran the following Hydra brute force command in Kali to execute the attack on the
 The event code 4625 appears 21 times in Splunk, which means there were 21 failed attempts to login to the "tsmith" account. This coincides with the number of attempts the Hydra attack made to crack the password of the user "jsmith".
 
 ![image](https://github.com/user-attachments/assets/8d5f887b-e19e-484d-afe3-1064260db911)
+
+All the events under code 4625 happened at the same time which strongly indicates it can be a brute force attack.
+
+![image](https://github.com/user-attachments/assets/4d7e8fff-e685-494a-b0d6-fc225ddb6ef5)
+
+There are seven events for code 4624 which stands for the account getting successfully logged in.
+
+![image](https://github.com/user-attachments/assets/37aa9197-7544-4309-97a3-f37e6f5729ab)
+
+While looking through the seven logs listed by the command above, one of them shows the details of the attacker Kali VM:
+
+![image](https://github.com/user-attachments/assets/c01cf9e9-d444-4ce1-a77f-ef7cdb0c1814)
+
