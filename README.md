@@ -46,7 +46,7 @@ Installed the crowbar tool to use in the attack.
 
 Installed the xfreerdp dependency so the crowbar RDP tool can be executed.
 
-![image](https://github.com/user-attachments/assets/7026c478-276a-4821-b7b1-727465244671)
+![image](https://github.com/user-attachments/assets/87f562bd-df83-4453-9346-30ea91aaddec)
 
 
 Prepared the wordlist "rockyou.txt" file for use.
