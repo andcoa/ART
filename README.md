@@ -40,22 +40,9 @@ Started setting up the attack by creating a new directory named "AD-Project".
 
 ![image](https://github.com/user-attachments/assets/3e6af0a1-6394-4447-a5dc-f57a3d68577b)
 
-Installed the crowbar tool to use in the attack.
-
-![image](https://github.com/user-attachments/assets/e819e450-cb7c-4d27-8c88-9431f50fc672)
-
-Installed the xfreerdp dependency so the crowbar RDP tool can be executed.
-
-![image](https://github.com/user-attachments/assets/87f562bd-df83-4453-9346-30ea91aaddec)
-
-
 Prepared the wordlist "rockyou.txt" file for use.
 
 ![image](https://github.com/user-attachments/assets/df778438-cd9f-47a3-a74d-2d8703aac07f)
-
-Created a new file named "passwords.txt" to only use the first 20 lines out of the "rockyou.txt" file.
-
-![image](https://github.com/user-attachments/assets/e4c02281-d362-401c-a9d2-1b5599252d40)
 
 Added the AD users passwords to the "passwords.txt" file.
 
@@ -65,8 +52,9 @@ On the target Windows 10 VM, the two users were added as Remote Desktop Users.
 
 ![image](https://github.com/user-attachments/assets/f13282f3-15a9-4216-b26c-0e912f3e0a71)
 
-Ran the following crowbar brute force tool in Kali to execute the attack on the Windows 10 VM.
+Ran the following Hydra brute force attack in Kali to execute the attack on the Windows 10 VM.
 
-![image](https://github.com/user-attachments/assets/34c6a133-cad8-4954-bef4-b3b4345a006e)
+![image](https://github.com/user-attachments/assets/4d3c74d9-c8ef-451a-a58d-e6f096e4510e)
+
 
 
