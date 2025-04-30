@@ -2,7 +2,7 @@
 
 ## Objective
 
-Simulate real-world attack techniques from the MITRE ATT&CK framework using Atomic Red Team to generate telemetry data, identify visibility gaps, and create actionable detections within Splunk.
+Simulate real-world adversary techniques from the MITRE ATT&CK framework using Atomic Red Team, generate and analyze telemetry data in Splunk, and identify visibility gaps in endpoint detection coverage within a Windows-Kali Linux lab environment.
 
 ## Skills Learned
 
