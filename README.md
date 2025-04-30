@@ -52,9 +52,12 @@ On the target Windows 10 VM, the two users were added as Remote Desktop Users.
 
 ![image](https://github.com/user-attachments/assets/f13282f3-15a9-4216-b26c-0e912f3e0a71)
 
-Ran the following Hydra brute force attack in Kali to execute the attack on the Windows 10 VM.
+Ran the following Hydra brute force attack in Kali to execute the attack on the Windows 10 VM. The user's password was obtained successfully.
 
-![image](https://github.com/user-attachments/assets/4d3c74d9-c8ef-451a-a58d-e6f096e4510e)
+![image](https://github.com/user-attachments/assets/0fe08df7-e000-4f96-82f5-8abc6bdd8a6a)
 
+### Splunk Analysis
 
+The event code 4625 appears 21 times in Splunk, which means there were 21 failed attempts to login to the "tsmith" account. This coincides with the number of attempts the Hydra attack made to crack the password of the user "jsmith".
 
+![image](https://github.com/user-attachments/assets/8d5f887b-e19e-484d-afe3-1064260db911)
