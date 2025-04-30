@@ -44,3 +44,7 @@ Installed the crowbar tool to use in the attack.
 
 ![image](https://github.com/user-attachments/assets/e819e450-cb7c-4d27-8c88-9431f50fc672)
 
+Prepared the wordlist "rockyou.txt" file.
+
+![image](https://github.com/user-attachments/assets/f76fcdf0-b594-4935-afab-dc027013dc79)
+
