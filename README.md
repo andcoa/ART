@@ -28,7 +28,14 @@ Network diagram:
 
 ![image](https://github.com/user-attachments/assets/fc271426-2238-4d33-b08b-7d9344dbe9bf)
 
-Updated the Kali VM's IPv4 settings to match the network diagram in the AD lab.
+Updated Kali VM's IPv4 settings to match the network diagram in the AD lab.
 
 ![image](https://github.com/user-attachments/assets/da707a22-d1c8-4184-a177-c137c6c7d050)
 
+Ran the following command to update & upgrade the Kali repositories:
+
+![image](https://github.com/user-attachments/assets/3f940886-c274-456e-93be-105edab38585)
+
+Started setting up the attack by creating a new directory named "AD-Project".
+
+![image](https://github.com/user-attachments/assets/3e6af0a1-6394-4447-a5dc-f57a3d68577b)
