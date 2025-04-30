@@ -72,9 +72,16 @@ While looking through the seven logs listed by the command above, one of them sh
 
 ![image](https://github.com/user-attachments/assets/e729d3f8-cb8c-428f-a89d-08e9a13179fc)
 
-In order to install Atomic Red Team on the Windows 10 VM, the C:\ drive was added as an exclusion in Windows Security as Microsoft Defender would otherwise delete some of the files after the installation.
+To prepare for the installation of Atomic Red Team on the Windows 10 VM, the C:\ drive was added as an exclusion in Windows Security as Microsoft Defender would otherwise delete some of the files after the installation.
 
 ![image](https://github.com/user-attachments/assets/1b4a95a4-9d28-40e0-988f-22a7556e4252)
+
+The following commands were executed to install Atomic Red Team:
+
+![image](https://github.com/user-attachments/assets/c54a9429-2676-4279-8601-49c30c68cc6c)
+
+![image](https://github.com/user-attachments/assets/35169cfc-7087-46e9-99d5-281dab87e0ef)
+
 
 
 
