@@ -39,3 +39,8 @@ Ran the following command to update & upgrade the Kali repositories:
 Started setting up the attack by creating a new directory named "AD-Project".
 
 ![image](https://github.com/user-attachments/assets/3e6af0a1-6394-4447-a5dc-f57a3d68577b)
+
+Installed the crowbar tool to use in the attack.
+
+![image](https://github.com/user-attachments/assets/e819e450-cb7c-4d27-8c88-9431f50fc672)
+
