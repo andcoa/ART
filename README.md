@@ -14,10 +14,10 @@ Simulate real-world attack techniques from the MITRE ATT&CK framework using Atom
 
 ## Tools Used
 
-- Atomic Red Team: Adversary emulation framework
-- Splunk: Security Information and Event Management (SIEM)
-- Windows Defender: Host-based detection of threats
-- MITRE ATT&CK: Adversarial tactics and technique framework
-- VirtualBox Snapshots: To restore lab environments to a clean state
+- Kali Linux: Perform a brute force attack onto the AD users.
+- Atomic Red Team: Adversary emulation framework.
+- Splunk: Security Information and Event Management (SIEM).
+- Windows Defender: Host-based detection of threats.
+- MITRE ATT&CK: Adversarial tactics and technique framework.
 
 ## Steps
