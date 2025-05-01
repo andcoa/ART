@@ -2,7 +2,7 @@
 
 ## Objective
 
-Simulate real-world adversary techniques from the MITRE ATT&CK framework using Kali Linux and Atomic Red Team, generate and analyze telemetry data in Splunk, and identify visibility gaps in endpoint detection coverage within a Windows-Kali Linux lab environment.
+Simulate real-world adversary techniques from the MITRE ATT&CK framework using Atomic Red Team, generate and analyze telemetry data in Splunk, and identify visibility gaps in endpoint detection coverage within a Windows-Kali Linux lab environment.
 
 ## Skills Learned
 
