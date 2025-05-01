@@ -82,7 +82,7 @@ The following commands were executed to install Atomic Red Team:
 
 ![image](https://github.com/user-attachments/assets/35169cfc-7087-46e9-99d5-281dab87e0ef)
 
-Ran the following Atomic Test command with the technique ID T1136.001 to generate telemtry based on creating a local account named "NewLocalUser":
+Ran the following Atomic Test command with the technique ID T1136.001 to generate telemetry based on creating a local account named "NewLocalUser":
 
 ![image](https://github.com/user-attachments/assets/bd32833b-aaa6-492b-afbf-91006f7539b9)
 
@@ -90,7 +90,7 @@ Splunk detected the generated telemetry:
 
 ![image](https://github.com/user-attachments/assets/7e89a5a0-fdd4-4356-ab5d-d08fdf78840e)
 
-Ran another Atomic Test command with the technique ID T1059.001 to generate telemtry based on the Command and Scripting Interpreter vulnerability from MITRE.
+Ran another Atomic Test command with the technique ID T1059.001 to generate telemetry based on the Command and Scripting Interpreter vulnerability from MITRE.
 
 ![image](https://github.com/user-attachments/assets/c6366a3b-a633-44db-8790-638e51b0b771)
 
