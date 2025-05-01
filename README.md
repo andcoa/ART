@@ -96,6 +96,6 @@ Ran another Atomic Test command with the technique ID T1059.001 to generate tele
 
 ![image](https://github.com/user-attachments/assets/fabac38d-2b2a-4541-9ac7-8ef9ccb4a9a6)
 
-Splunk detected the generated telemtry matching the Atomic Test results:
+Splunk detected the generated telemetry matching the Atomic Test results:
 
 ![image](https://github.com/user-attachments/assets/746b9bc5-3fd5-4a29-aec3-73c43131cdff)
