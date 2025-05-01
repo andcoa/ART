@@ -1,4 +1,4 @@
-# Atomic Red Team Lab
+# Brute Force Attack & Atomic Red Team Simulation
 
 ## Objective
 
