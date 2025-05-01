@@ -90,3 +90,12 @@ Splunk detected the generated telemetry:
 
 ![image](https://github.com/user-attachments/assets/7e89a5a0-fdd4-4356-ab5d-d08fdf78840e)
 
+Ran another Atomic Test command with the technique ID T1059.001 to generate telemtry based on the Command and Scripting Interpreter vulnerability from MITRE.
+
+![image](https://github.com/user-attachments/assets/c6366a3b-a633-44db-8790-638e51b0b771)
+
+![image](https://github.com/user-attachments/assets/fabac38d-2b2a-4541-9ac7-8ef9ccb4a9a6)
+
+Splunk detected the generated telemtry matching the Atomic Test results:
+
+![image](https://github.com/user-attachments/assets/746b9bc5-3fd5-4a29-aec3-73c43131cdff)
