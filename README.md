@@ -56,7 +56,7 @@ Ran the following Hydra brute force command in Kali to execute the attack on the
 
 ![image](https://github.com/user-attachments/assets/0fe08df7-e000-4f96-82f5-8abc6bdd8a6a)
 
-The event code 4625 appears 21 times in Splunk, which means there were 21 failed attempts to login to the "tsmith" account. This coincides with the number of attempts the Hydra attack made to crack the password of the user "jsmith".
+The event code 4625 (failed logon attempt) appears 21 times in Splunk, which means there were 21 failed attempts to login to the "tsmith" account. This coincides with the number of attempts the Hydra attack made to crack the password of the user "jsmith".
 
 ![image](https://github.com/user-attachments/assets/8d5f887b-e19e-484d-afe3-1064260db911)
 
